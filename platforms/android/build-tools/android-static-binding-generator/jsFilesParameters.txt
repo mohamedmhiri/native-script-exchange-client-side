@@ -1,0 +1,10 @@
+/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/src/main/assets/app/app.module.js
+/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/src/main/assets/app/app.routing.js
+/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/src/main/assets/app/components/bank.component.js
+/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/src/main/assets/app/components/broker.component.js
+/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/src/main/assets/app/components/convertor.component.js
+/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/src/main/assets/app/services/convertor.service.js
+/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/src/main/assets/app/services/home.service.js
+/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/src/main/assets/app/components/news.component.js
+/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/src/main/assets/app/models/news.js
+/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/src/main/assets/app/services/news.service.js

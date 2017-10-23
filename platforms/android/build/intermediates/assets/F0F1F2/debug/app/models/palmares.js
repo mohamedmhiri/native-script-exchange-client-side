@@ -1,0 +1,9 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var Palmares = (function () {
+    function Palmares(name, dernier, haut, bas, volume, variation) {
+    }
+    return Palmares;
+}());
+exports.Palmares = Palmares;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicGFsbWFyZXMuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJwYWxtYXJlcy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOztBQUFBO0lBUUksa0JBQVksSUFBYSxFQUN6QixPQUFnQixFQUNoQixJQUFhLEVBQ2IsR0FBWSxFQUNaLE1BQWUsRUFDZixTQUFrQjtJQUFHLENBQUM7SUFDMUIsZUFBQztBQUFELENBQUMsQUFkRCxJQWNDO0FBZFksNEJBQVEiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY2xhc3MgUGFsbWFyZXMge1xuICAgIG5hbWU/OiBzdHJpbmdcbiAgICBkZXJuaWVyPzogc3RyaW5nXG4gICAgaGF1dD86IHN0cmluZ1xuICAgIGJhcz86IHN0cmluZ1xuICAgIHZvbHVtZT86IHN0cmluZ1xuICAgIHZhcmlhdGlvbj86IHN0cmluZ1xuXG4gICAgY29uc3RydWN0b3IobmFtZT86IHN0cmluZyxcbiAgICBkZXJuaWVyPzogc3RyaW5nLFxuICAgIGhhdXQ/OiBzdHJpbmcsXG4gICAgYmFzPzogc3RyaW5nLFxuICAgIHZvbHVtZT86IHN0cmluZyxcbiAgICB2YXJpYXRpb24/OiBzdHJpbmcpIHt9XG59Il19

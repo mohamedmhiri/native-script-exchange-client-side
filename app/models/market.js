@@ -1,0 +1,9 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var Market = (function () {
+    function Market(name, dernier, ouv, haut, bas, volumeTitle, volumeDT, variation) {
+    }
+    return Market;
+}());
+exports.Market = Market;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFya2V0LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsibWFya2V0LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQUE7SUFVSSxnQkFBWSxJQUFhLEVBQ3pCLE9BQWdCLEVBQ2hCLEdBQVksRUFDWixJQUFhLEVBQ2IsR0FBWSxFQUNaLFdBQW9CLEVBQ3BCLFFBQWlCLEVBQ2pCLFNBQWtCO0lBQUcsQ0FBQztJQUMxQixhQUFDO0FBQUQsQ0FBQyxBQWxCRCxJQWtCQztBQWxCWSx3QkFBTSIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBjbGFzcyBNYXJrZXQge1xuICAgIG5hbWU/OiBzdHJpbmdcbiAgICBkZXJuaWVyPzogc3RyaW5nXG4gICAgb3V2Pzogc3RyaW5nXG4gICAgaGF1dD86IHN0cmluZ1xuICAgIGJhcz86IHN0cmluZ1xuICAgIHZvbHVtZVRpdGxlPzogc3RyaW5nXG4gICAgdm9sdW1lRFQ/OiBzdHJpbmdcbiAgICB2YXJpYXRpb24/OiBzdHJpbmdcblxuICAgIGNvbnN0cnVjdG9yKG5hbWU/OiBzdHJpbmcsXG4gICAgZGVybmllcj86IHN0cmluZyxcbiAgICBvdXY/OiBzdHJpbmcsXG4gICAgaGF1dD86IHN0cmluZyxcbiAgICBiYXM/OiBzdHJpbmcsXG4gICAgdm9sdW1lVGl0bGU/OiBzdHJpbmcsXG4gICAgdm9sdW1lRFQ/OiBzdHJpbmcsXG4gICAgdmFyaWF0aW9uPzogc3RyaW5nKSB7fVxufSJdfQ==

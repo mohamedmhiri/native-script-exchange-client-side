@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-transition-25.3.0_ce34e9731fd07aff4e7939ece99f6d4fb4312f0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-vector-drawable-25.3.0_a83cc3fb924f5d5bbd8e3d25b732f6ddb4f153d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-recyclerview-v7-25.3.0_0aa3eba613e7e078b2df7185842f435011a6ebbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/Data-2017.1.504-nstrial-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57ec1132d75cb278442a2d2441cf1c9aec4341bd">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Data-2017.1.504-nstrial-release_163d32d110a32fa69f1bf10c4597cb90b7d96f6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/support-annotations-25.3.0_79e0a2484b6566554387f5495911b27d80ea1907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-v4-25.3.0_7d9fc1905ede03d05970b2e5f6992b67be9e431a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.504-nstrial-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2a4f6f7d8fe3297d0d455a12ada07ee424ec3cb">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Chart-2017.1.504-nstrial-release_ca78c415d2f693cac6ee348caa6f3f1feff789ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-design-25.3.0_c639998667aa0b74bed1521f5e00b96ce8c3ac2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-animated-vector-drawable-25.3.0_f2cce5057170b89b4b9cb2f7cddc8476ed7e5a81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-media-compat-25.3.0_a74af410c742acbddc4cdd36a103ef2aecd4c681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-ui-25.3.0_891c58162fd3964decf13730097c9f47b2f446b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-utils-25.3.0_11582a9c50378b82387fbc79719b036662c01207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/Input-2017.1.504-nstrial-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bda460a52591c6ce21ff149844cf9fc34633ba50">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Input-2017.1.504-nstrial-release_dd866e47af014acc24059a361276966785f7bd7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0366b761ae7f79749c685f953a1f9ced2e166de0">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-widgets-release_9d85a7bec89735bf187980cf17bac60dc39ece31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/Primitives-2017.1.504-nstrial-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e0965aa675b99c4d574086ae7b9f1ce3a3010a3">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Primitives-2017.1.504-nstrial-release_e24bc1b3a7aa463f031705c583fc3c47ee0f5b8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.google.android.gms-play-services-base-10.2.1_a98b57f59eac4a4aca3721aea01288cba3a1f947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-compat-25.3.0_a770782327b93de648b418e8615cbb2abf46d881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/Gauges-2017.1.504-nstrial-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a6c6ec4e41df70ee9a2cea583a9c2442dbe8381c">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Gauges-2017.1.504-nstrial-release_d4e8393c1232e831631c0822d66b55d28c0183bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/Common-2017.1.504-nstrial-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6859c5a86b2f1bc504ee63a375b00a422661038e">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Common-2017.1.504-nstrial-release_efd2ef2b1098129d4fcb9d097dd85b7148cb5c9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.google.android.gms-play-services-basement-10.2.1_719c780a2917870daae367a3baa9bf1ecf9f3624.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-fragment-25.3.0_0ef0672013705365ac0129d3e3c2a03584769fa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-appcompat-v7-25.3.0_9899b3bc2767c45ef18fd719e8f305ae472d58d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/List-2017.1.504-nstrial-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8cade579db002479e56e70c8c7ae6dbe8afb7e89">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-List-2017.1.504-nstrial-release_a68bca9e16b8a1785d47959dab839257d5db9131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.google.android.gms-play-services-tasks-10.2.1_d45efd14ead233bc2b8aea71e07d0b7a5a2e4bb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.504-nstrial-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="149e3fcc6a886bf4b3457801d282ebab4f5c0f33">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Feedback-2017.1.504-nstrial-release_930a19b02d8aefee39c6270fcf980bbbebb72bb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/exchangeclientside/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e45d63bd91f9a51a9e6f9c96be7a01deb415690">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/exchangeclientside-runtime-unspecified_010d10a7bb95b9fa2b2ee40031bd51f4f82fcd43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/exchangeclientside/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/binding-generator_86e9d87afca8267933da4c71aaf157f2d5e0fb2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.google.android.gms-play-services-maps-10.2.1_73a8b7d97b22f3037e7425ec63a9d23aecd8c209.jar" />
+    </item>
+
+</items>

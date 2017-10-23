@@ -1,0 +1,11 @@
+<ActionBar title="Devise Convertor" class="action-bar">
+</ActionBar>
+<home>
+    <ListPicker #picker class="picker" [items]="items" [selectedIndex]="selectedIndex" verticalAlignment="top" horizontalAlignment="center"
+        (selectedIndexChange)="selectedIndexChanged(picker)">
+    </ListPicker>
+    <GridLayout>
+        <Label text="{{result.base}}"></Label>
+        <Label text="{{base}}"></Label>
+    </GridLayout>
+</home>

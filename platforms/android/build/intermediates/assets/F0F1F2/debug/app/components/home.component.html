@@ -1,0 +1,74 @@
+<!--<ActionBar title="Tunisian Stock Exchange" class="action-bar">
+</ActionBar>-->
+<!--<StackLayout class="page">
+    <ListView [items]="items" class="list-group">
+        <ng-template let-item="item">
+            <Label [nsRouterLink]="['/'+item.path]" [text]="item.name"
+                class="list-group-item"></Label>
+        </ng-template>
+    </ListView>
+</StackLayout>-->
+
+
+<!--<ActionBar title="GitUsers">  
+  <NavigationButton icon="res://ic_drawer" text="Go Back" (tap)="openDrawer()"></NavigationButton>
+</ActionBar>  
+<RadSideDrawer #drawer>  
+    <ng-template drawerSide>
+        <StackLayout class="p bgc-white">
+            <ListView [items]="items" row="1">
+                <ng-template let-item="item" let-i="index">
+                    <StackLayout>
+                        <Label text="{{item.name}}" class="page-name" ></Label>
+                    </StackLayout>
+                </ng-template>
+            </ListView>
+        </StackLayout>
+    </ng-template>
+    <ng-template drawerMain>
+        <StackLayout class="m">
+            <page-router-outlet></page-router-outlet>
+        </StackLayout>
+   </ng-template>
+</RadSideDrawer>-->
+<ActionBar title="Tunisian Stock Exchange" class="action-bar">
+    <NavigationButton icon="res://ic_drawer" text="Go Back" (tap)="openDrawer()"></NavigationButton>
+</ActionBar>
+<RadSideDrawer tkExampleTitle tkToggleNavButton>
+    <StackLayout tkDrawerContent class="sidedrawer-left">
+        <!--<StackLayout class="sideTitleStackLayout">
+            <Label text="Navigation Menu"></Label>
+        </StackLayout>-->
+        <StackLayout class="sidedrawer-header">
+            <!-- Set src attribute to the logo of the app -->
+            <Image class="sidedrawer-header-image" src="~/public/img/finance.png">
+            </Image>
+            <Label class="sidedrawer-header-brand" text="Tunisian Stock Exchange">
+            </Label>
+        </StackLayout>
+        <StackLayout class="sidedrawer-content" >
+            <GridLayout class="sidedrawer-list-item" *ngFor="let item of items">
+                <Button class="sidedrawer-list-item-text borderless-btn" [text]="item.name" [nsRouterLink]="['/'+item.path]">
+                </Button>
+            </GridLayout>
+            <!--<Label  [text]="item.name" class="sideLabel"></Label>-->
+            <!--<Label text="Primary" class="sideLabel sideLightGrayLabel"></Label>
+            <Label text="Social" class="sideLabel"></Label>
+            <Label text="Promotions" class="sideLabel"></Label>
+            <Label text="Labels" class="sideLabel sideLightGrayLabel"></Label>
+            <Label text="Important" class="sideLabel"></Label>
+            <Label text="Starred" class="sideLabel"></Label>
+            <Label text="Sent Mail" class="sideLabel"></Label>
+            <Label text="Drafts" class="sideLabel"></Label>-->
+        </StackLayout>
+
+    </StackLayout>
+    <StackLayout tkMainContent>
+        <Label [text]="mainContentText" textWrap="true" class="drawerContentText"></Label>
+        <StackLayout>
+            <ng-content></ng-content>
+        </StackLayout>
+
+        <!--<Button text="OPEN DRAWER" (tap)="openDrawer()" class="drawerContentButton"></Button>-->
+    </StackLayout>
+</RadSideDrawer>

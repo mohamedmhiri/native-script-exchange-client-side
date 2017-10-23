@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xhdpi/background.png",
+        "source": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/src/main/res/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xhdpi/icon.png",
+        "source": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xhdpi/logo.png",
+        "source": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side/platforms/android/src/main/res/drawable-xhdpi/logo.png"
+    }
+]

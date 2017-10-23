@@ -1,0 +1,35 @@
+<home>
+    <StackLayout>
+        <GridLayout columns="50, auto, *" rows="50, auto, *">
+            <!--<ListView row="1" width="100%" id="contractsListView" style="background-color: #e5e6da; padding: 0; margin: 0;" [items]="news"
+                row="1">
+                <ng-template let-item="item" let-i="index" let-odd="odd" let-even="even">
+                    <StackLayout>
+                        <GridLayout columns="50, auto, *" rows="50, auto, *" height="400" columns="auto, *">
+                            <StackLayout row="1" col="1" orientation="vertical">
+                                <Label text= class="score-label"></Label>
+                                <Label  textWrap="true" row="3" class="score-label" style="text-align: center; color: #fff; padding: 0; font-size: 20; vertical-align: stretch; background-color: #00853e;"></Label>
+                            </StackLayout>
+                        </GridLayout>
+                    </StackLayout>
+                </ng-template>
+            </ListView>-->
+            <ListView row="1" width="100%" id="contractsListView" items="{{ news }}" itemTap="tapItem" style="background-color: #e5e6da; padding: 0; margin: 0;">
+                <ListView.itemTemplate>
+                    <!--<GridLayout rows="*" columns="100,*" style="background-color: #e5e6da;">
+                        <StackLayout row="0" col="0" style="vertical-align: stretch; background-color: #00853e;">
+                            <Label text="Date: {{item.date}}" style="text-align: center; vertical-align: center; color: #fff; font-size: 20; background-color: #00853e;" id="activeLabel"/>
+                        </StackLayout>
+                            <Label row="0" col="1" text="{{item.info}}" textWrap="true" style="text-align: center; vertical-align: stretch; font-size: 20; padding: 20; background-color: #e5e6da;"/>
+                    </GridLayout>-->
+                    <GridLayout rows="*" columns="100, *" style="background-color: #00853e;">
+                        <Label row="0" col="0" text="aktiv" style="text-align: center; vertical-align: center; color: #fff; font-size: 20; background-color: #00853e;"
+                            id="activeLabel" />
+                        <Label row="0" col="1" text="some text that can be long text in order to wrap it" textWrap="true" style="text-align: center; vertical-align: stretch; font-size: 20; padding: 20; background-color: #e5e6da;"
+                        />
+                    </GridLayout>
+                </ListView.itemTemplate>
+            </ListView>
+        </GridLayout>
+    </StackLayout>
+</home>

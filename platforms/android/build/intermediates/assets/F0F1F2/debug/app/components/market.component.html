@@ -1,0 +1,26 @@
+<home>
+    <StackLayout>
+        <!--<TextField hint="Name" [(ngModel)]="name"></TextField>
+        <Button text="Search" (tap)="onSearchTap()"></Button>-->
+        <GridLayout rows="auto, *">
+            <ListView [items]="marketList" row="1">
+                <ng-template let-item="item" let-i="index" let-odd="odd" let-even="even">
+                    <StackLayout>
+                        <GridLayout rows="auto,auto" columns="auto, *">
+                            <Label text="{{item.name}}" row="0" col="1" class="login"></Label>
+                            <StackLayout row="1" col="1" orientation="vertical">
+                                <Label text="Last: {{item.dernier}}" class="score-label"></Label>
+                                <Label text="Openning: {{item.ouv}}" class="score-label"></Label>
+                                <Label text="Up: {{item.haut}}" class="score-label"></Label>
+                                <Label text="Down: {{item.bas}}" class="score-label"></Label>
+                                <Label text="Volume(Titles): {{item.volumeTitle}}" class="score-label"></Label>
+                                <Label text="Volume(DT): {{item.volumeDT}}" class="score-label"></Label>
+                                <Label text="Change: {{item.variation}}" class="score-label"></Label>
+                            </StackLayout>
+                        </GridLayout>
+                    </StackLayout>
+                </ng-template>
+            </ListView>
+        </GridLayout>
+    </StackLayout>
+</home>

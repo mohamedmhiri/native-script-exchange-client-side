@@ -1,0 +1,153 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-ngx-fonticon@^2.1.2",
+        "scope": null,
+        "escapedName": "nativescript-ngx-fonticon",
+        "name": "nativescript-ngx-fonticon",
+        "rawSpec": "^2.1.2",
+        "spec": ">=2.1.2 <3.0.0",
+        "type": "range"
+      },
+      "/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side"
+    ]
+  ],
+  "_from": "nativescript-ngx-fonticon@>=2.1.2 <3.0.0",
+  "_id": "nativescript-ngx-fonticon@2.2.0",
+  "_inCache": true,
+  "_location": "/nativescript-ngx-fonticon",
+  "_nodeVersion": "6.9.4",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nativescript-ngx-fonticon-2.2.0.tgz_1492704278734_0.5934431396890432"
+  },
+  "_npmUser": {
+    "name": "hypery2k",
+    "email": "contact@martinreinhardt-online.de"
+  },
+  "_npmVersion": "4.0.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-ngx-fonticon@^2.1.2",
+    "scope": null,
+    "escapedName": "nativescript-ngx-fonticon",
+    "name": "nativescript-ngx-fonticon",
+    "rawSpec": "^2.1.2",
+    "spec": ">=2.1.2 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-ngx-fonticon/-/nativescript-ngx-fonticon-2.2.0.tgz",
+  "_shasum": "17a234d6fc0d57af30f543a5991a4b33139904ca",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-ngx-fonticon@^2.1.2",
+  "_where": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange-client-side",
+  "author": {
+    "name": "Nathan Walker",
+    "email": "walkerrunpdx@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/NathanWalker/nativescript-ngx-fonticon/issues"
+  },
+  "contributors": [
+    {
+      "name": "Nathanael Anderson",
+      "email": "nathan@master-technology",
+      "url": "https://github.com/nathanaela"
+    },
+    {
+      "name": "Martin Reinhardt",
+      "email": "contact@martinreinhardt-online.de",
+      "url": "https://github.com/hypery2k"
+    }
+  ],
+  "dependencies": {
+    "tslib": "1.6.0"
+  },
+  "description": "Use custom font icon collections seamlessly with NativeScript for Angular.",
+  "devDependencies": {
+    "@angular/common": "2.4.9",
+    "@angular/compiler": "2.4.9",
+    "@angular/compiler-cli": "2.4.9",
+    "@angular/core": "2.4.9",
+    "@angular/forms": "2.4.9",
+    "@angular/http": "2.4.9",
+    "@angular/platform-browser": "2.4.9",
+    "@angular/platform-browser-dynamic": "2.4.9",
+    "@angular/router": "3.4.9",
+    "nativescript-angular": "1.4.1",
+    "reflect-metadata": "0.1.9",
+    "rimraf": "^2.5.1",
+    "rxjs": "5.1.1",
+    "tns-core-modules": "2.5.1",
+    "traceur": "^0.0.91",
+    "typedoc": "^0.3.12",
+    "typescript": "~2.1.0",
+    "zone.js": "~0.7.2"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "17a234d6fc0d57af30f543a5991a4b33139904ca",
+    "tarball": "https://registry.npmjs.org/nativescript-ngx-fonticon/-/nativescript-ngx-fonticon-2.2.0.tgz"
+  },
+  "gitHead": "54a0d6ab904be9a7d00adaa0da4d81f509cd58e6",
+  "homepage": "https://github.com/NathanWalker/nativescript-ngx-fonticon#readme",
+  "keywords": [
+    "angular",
+    "angular2",
+    "ng",
+    "ngx",
+    "ng2",
+    "nativescript",
+    "icon",
+    "font"
+  ],
+  "license": "MIT",
+  "main": "nativescript-ngx-fonticon",
+  "maintainers": [
+    {
+      "name": "hypery2k",
+      "email": "contact@martinreinhardt-online.de"
+    },
+    {
+      "name": "walkerrunpdx",
+      "email": "walkerrunpdx@gmail.com"
+    }
+  ],
+  "module": "nativescript-ngx-fonticon.js",
+  "name": "nativescript-ngx-fonticon",
+  "nativescript": {
+    "platforms": {
+      "android": "2.4.1",
+      "ios": "2.4.0"
+    }
+  },
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@angular/core": ">=2.0.0 || >=4.0.0-beta.0",
+    "nativescript-angular": ">=1.3.0",
+    "tns-core-modules": ">=2.4.4"
+  },
+  "readme": "## A simpler way to use font icons with NativeScript + Angular.\n\n[![Angular Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://github.com/mgechev/angular2-style-guide)\n[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)\n[![Build Status](https://martinreinhardt-online.de/jenkins/buildStatus/icon?job=NPM/nativescript-ngx-fonticon/master)](https://martinreinhardt-online.de/jenkins/blue/organizations/jenkins/NPM%2Fnativescript-ngx-fonticon/activity)\n\n### The Problem\n\nYou can use icon fonts with NativeScript by combining a class with a unicode reference in the view:\n\n* css\n```css\n.fa {\n  font-family: FontAwesome;\n}\n```\n\n* view\n```xml\n<Label class=\"fa\" text=\"\\uf293\"></Label>\n```\n\nThis works but keeping up with unicodes is not fun.\n\n### The Solution\n\nWith this plugin, you can instead reference the `fonticon` by the specific classname:\n\n```xml\n<Label class=\"fa\" [text]=\"'fa-bluetooth' | fonticon\"></Label> \n```\n\n## Install\n\n```bash\nnpm install nativescript-ngx-fonticon --save\n```\n\n### Usage\n\n[FontAwesome](https://fortawesome.github.io/Font-Awesome/) will be used in the following examples but you can use any custom font icon collection.\n\n* Place font icon `.ttf` file in `app/fonts`, for example:\n  \n```\napp/fonts/fontawesome-webfont.ttf\n```\n\n* Create base class in `app.css` global file, for example:\n\n```css\n.fa {\n  font-family: FontAwesome, fontawesome-webfont;\n}\n```\n\n**NOTE**: Android uses the name of the file for the font-family (In this case, `fontawesome-webfont`.ttf. iOS uses the actual name of the font; for example, as found [here](https://github.com/FortAwesome/Font-Awesome/blob/master/css/font-awesome.css#L8). You could rename the font filename to `FontAwesome.ttf` to use just: `font-family: FontAwesome`. You can [learn more here](http://fluentreports.com/blog/?p=176).\n\n* Copy css to `app` somewhere, for example:\n\n```\napp/assets/font-awesome.css\n```\n\nThen modify the css file to isolate just the icon fonts needed. [Watch this video to better understand](https://www.youtube.com/watch?v=qb2sk0XXQDw).\n\n* Import the `TNSFontIconModule` passing a configuration with the location to the `.css` file to `forRoot`:\n\nUse the classname prefix as the `key` and the css filename as the value relative to the `app` directory.\n\n```typescript\nimport { TNSFontIconModule } from 'nativescript-ngx-fonticon';\n\n@NgModule({\n\tdeclarations: [\n\t\tDemoComponent,\n\t],\n\tbootstrap: [\n\t\tDemoComponent,\n\t],\n\timports: [\n\t\tNativeScriptModule,\n\t\tTNSFontIconModule.forRoot({\n\t\t\t'fa': './assets/font-awesome.css',\n\t\t\t'ion': './assets/ionicons.css'\n\t\t})\n\t]\n})\n```\n\n* *Optional* Configure the service with DEBUGGING on\n\nWhen working with a new font collection, you may need to see the mapping the service provides. Passing `true` as seen below will cause the mapping to be output in the console to determine if your font collection is being setup correctly.\n\n```typescript\nimport { TNSFontIconModule, TNSFontIconService } from 'nativescript-ngx-fonticon';\n// turn debug on\nTNSFontIconService.debug = true;\n\n@NgModule({\n\tdeclarations: [\n\t\tDemoComponent,\n\t],\n\tbootstrap: [\n\t\tDemoComponent,\n\t],\n\timports: [\n\t\tNativeScriptModule,\n\t\tTNSFontIconModule.forRoot({\n\t\t\t'fa': './assets/font-awesome.css'\n\t\t})\n\t]\n})\n```\n\n* Setup your component\n\nIt is important to inject the service into the constructor of your root component. Otherwise Angular's DI system will not instantiate your service.\n\n```typescript\nimport { Component } from '@angular/core';\nimport { TNSFontIconService } from 'nativescript-ngx-fonticon';\n\n@Component({\n  selector: 'demo',\n  template: '<Label class=\"fa\" [text]=\"'fa-bluetooth' | fonticon\"></Label> '\n})\nexport class DemoComponent {\n  constructor(private fonticon: TNSFontIconService) {\n    // ^ IMPORTANT to cause Angular's DI system to instantiate the service!\n  }\n}\n```\n\nDemo FontAwesome (iOS) |  Demo Ionicons (iOS)\n-------- | ---------\n![Sample1](https://cdn.filestackcontent.com/m6JyRO1fTsCHPohoZi5I?v=0) | ![Sample2](https://cdn.filestackcontent.com/jje2pehCRCeLDC8QHBmp?v=0)\n\nDemo FontAwesome (Android) |  Demo Ionicons (Android)\n-------- | -------\n![Sample3](https://cdn.filestackcontent.com/lNCptx2aQisOa6p27iqb?v=0) | ![Sample4](https://cdn.filestackcontent.com/2ajSF92uQDusI37fEvQA?v=0)\n\n## How about just NativeScript without Angular?\n\nThe standard NativeScript converter is here:\n\n* [nativescript-fonticon](https://github.com/NathanWalker/nativescript-fonticon)\n\n## Why the TNS prefixed name?\n\n`TNS` stands for **T**elerik **N**ative**S**cript\n\niOS uses classes prefixed with `NS` (stemming from the [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP) days of old):\nhttps://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/\n\nTo avoid confusion with iOS native classes, `TNS` is used instead.\n\n## Credits\n\nIdea came from [Bradley Gore](https://github.com/bradleygore)'s [post here](http://www.blog.bradleygore.com/2016/03/28/font-icons-in-nativescript/).\n\n## Contributors\n\n- [NathanaelA](https://github.com/NathanaelA)\n\n# License\n\n[MIT](/LICENSE)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanWalker/nativescript-ngx-fonticon.git"
+  },
+  "scripts": {
+    "build": "ngc",
+    "clean": "rm -rf src/platforms",
+    "demo.android": "npm run preparedemo; cd src; tns run android --emulator",
+    "demo.ios": "npm run preparedemo; cd src; tns run ios --emulator",
+    "e2e": "cd sampleApp && npm run clean && tns plugin remove nativescript-ngx-fonticon && tns plugin add .. && npm run build",
+    "prebuild": "npm i && cd src && npm i",
+    "pree2e": "npm run build",
+    "preparedemo": "npm run build; cd src; tns plugin remove nativescript-ngx-fonticon; tns plugin add ..; tns install",
+    "tsc": "tsc"
+  },
+  "typings": "nativescript-ngx-fonticon.d.ts",
+  "version": "2.2.0"
+}
